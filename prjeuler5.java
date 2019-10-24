@@ -9,7 +9,7 @@ public class q1 {
 		for(long i=1;;i++)
 	   {
 			c=0;
-		   for(long j=1;j<=19;j++)
+		   for(long j=1;j<=20;j++)
 		   {
 			   if(i%j==0)
 			   {
@@ -17,7 +17,7 @@ public class q1 {
 			   }
 			   
 		   }
-		   if(c==19)
+		   if(c==20)
 		   {
 			   num=i;
 			   System.out.println("Smallest number divisible by 1 to 10 is "+num);
