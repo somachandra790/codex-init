@@ -16,7 +16,7 @@ public class q1 {
 		}
 		System.out.println("Sum: "+sum);
 	
-	
+	// I'm Soma Chandra... I love myself !💗💗
 	}
 }
 					
