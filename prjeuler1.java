@@ -15,8 +15,6 @@ public class q1 {
 			}
 		}
 		System.out.println("Sum: "+sum);
-	
-	
 	}
 }
 					
